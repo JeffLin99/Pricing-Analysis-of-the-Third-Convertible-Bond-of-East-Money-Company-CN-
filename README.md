@@ -1,0 +1,2 @@
+# Pricing-Analysis-of-the-Third-Convertible-Bond-of-East-Money-Company-CN-
+This study employed the Black-Scholes, binomial tree, and Monte Carlo models to price the option value of East Money Convertible Bond 1. Combining these with a pure bond price estimate from cash flow discounting, theoretical prices were compared with actual and stock prices. This analysis revealed the applicability and pros and cons of each model.
